@@ -1,0 +1,15 @@
+{
+  "name" : "Let's chat",
+  "description" : "Get help with prompts" ,
+   "version" : "1.0",
+   "manifest_version" : 3,
+   "action" : {
+    "default_title": "Lets chat",
+    "default_popup": "index.html",
+    "default_icon": {
+        "16" : "icon.png",
+        "128" : "icon.png"
+    }
+   }
+ 
+}
